@@ -17,9 +17,9 @@
     width: 200px;
     border-radius: 5px;
     border: 1px black solid;
-    text-align: right;
-    justify-content: right;
-  }
+    text-align: center;
+    justify-content: center;
+     }
   .main select {
     height: 40px;
     width: 200px;
